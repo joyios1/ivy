@@ -1,4 +1,4 @@
-> 🚀 We are granting pilot access to **Ivy\'s Tracer and Transpiler**
+> 🚀 We Are granting pilot access to **Ivy\'s Tracer and Transpiler**
 > to some users, [join the waitlist](https://console.unify.ai/) if you
 > want to test them out!
 
